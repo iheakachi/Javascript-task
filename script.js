@@ -16,5 +16,5 @@ if ((courses.length % 2) == 0) {
             document.write("</br>");
         }
     }
-} <
-/script>
+} 
+</script>
